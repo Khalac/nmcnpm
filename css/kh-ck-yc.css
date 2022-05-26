@@ -1,0 +1,112 @@
+.kh-ck-yc{
+    display: flex;
+    height: 450px;
+}
+.kh{
+    width: 33.33%;
+}
+.ck{
+    background-color: #faf5f1;
+    width: 33.33%;
+}
+.yc{
+    width: 33.33%;
+}
+
+.kh #kh{
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+.kh #kh-text{
+    font-family: 'Source Code Pro', monospace;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.kh #number{
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 70px;
+    margin-left: 40px;
+    display: flex;
+    
+}
+
+.kh #number-text{
+    font-family: 'Maven Pro', sans-serif;
+    margin-top: 10px;
+    margin-left: 40px;
+    display: flex;
+}
+
+.ck #ck{
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+.ck #ck-text{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 40px;
+
+}
+
+.ck #ck-text #ck-t{
+    margin-top:20px;
+}
+
+.ck #chuky{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.yc #yc{
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+.yc #tt ul{
+    margin : 0px;
+    padding: 0px;
+}
+
+.yc #tt ul li{
+    color: #929292;
+    width: 300px;
+    list-style: none;
+    display: block;
+    border: solid;
+    border-radius: 100px;
+    line-height: 30px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.yc #tt{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.yc #send{
+    line-height: 30px;
+    display: block;
+    margin-top: 10px;
+    margin-left: 40px;
+    border: solid;
+    border-radius: 100px;
+    width: 200px;
+    padding-left: 110px;
+    color: white;
+    background-color: #45704d;
+}

@@ -1,0 +1,24 @@
+.text{
+    font-family: 'Source Code Pro', monospace;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 1000px;
+    padding-top: 60px;
+    font-size: 15px;
+    padding-left: 200px;
+}
+
+
+.img ul{
+    margin-top : 60px;
+    padding: 0px;
+}
+.img ul li{
+    list-style: none;
+    float: left;
+    display: block;
+    line-height: 60px;
+    padding: 0px 10px 0px 15px;
+    margin-top: 10px;
+}

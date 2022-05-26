@@ -1,0 +1,12 @@
+.introduce{
+    max-width: 1600px;
+    max-height: 335px;
+}
+.introduce-text{
+    font-family: 'Maven Pro', sans-serif;
+    font-size:50px;
+    color: white;
+    position: absolute;
+    top:280px;
+   right: 43%;
+}

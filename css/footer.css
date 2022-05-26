@@ -1,0 +1,23 @@
+.footer{
+    height: 50px;
+    background-color: #0a3000;
+    display: flex;
+}
+.footer #text1{
+    font-family: 'Maven Pro', sans-serif;
+    margin-top: 15px;
+    margin-left: 100px;
+    color: white;
+    display: flex;
+}
+.footer #text1 .text1-t{
+    padding-left: 3px;
+    color: #7ab526;
+}
+
+.footer #text2 {
+    font-family: 'Maven Pro', sans-serif;
+    color: white;
+    margin-top: 15px;
+    margin-left: 400px;
+}

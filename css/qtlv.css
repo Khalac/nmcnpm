@@ -1,0 +1,170 @@
+.qtlv{
+    background-color: #f4f5ef;
+    height: 640px;
+    text-align: center;
+}
+
+.qtlv #qtlv{
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.qtlv #text{
+    font-family: 'Source Code Pro', monospace;
+    display: inline-block;
+    margin-top: 50px;
+    text-align: center;
+    width: 500px;
+}
+
+.qtlv #tv-icon{
+    
+    position: relative;
+    display: block;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 80px;
+    background-color: white;
+    text-align: center;
+    width: 100px;
+    height: 90px;
+    border-radius: 20px;
+}
+
+.qtlv #icon{
+    display:flex;
+}
+
+.qtlv #tv-icon #tv-number{
+    color: white;
+    position: absolute;
+    font-size:20px;
+    display: flex;
+    width: 30px;
+    height: 30px;
+    right: -10px;
+    top :-10px;
+    border-radius: 50%;
+    background-color: #7fbc28;
+    align-items: center;
+    justify-content: center;
+}
+
+.qtlv #cv-icon{
+    position: relative;
+    display: inline-block;
+    float: left;
+    margin-top: 100px;
+    margin-left: 350px;
+    font-size: 80px;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    width: 100px;
+    height: 90px;
+    border-radius: 20px;
+}
+
+.qtlv #cv-icon #cv-number{
+    color: white;
+    position: absolute;
+    font-size:20px;
+    display: flex;
+    width: 30px;
+    height: 30px;
+    right: -15px;
+    top :-15px;
+    border-radius: 50%;
+    background-color: #7fbc28;
+    align-items: center;
+    justify-content: center;
+}
+
+.qtlv #ht-icon{
+    position: relative;
+    display: inline-block;
+    float: left;
+    margin-top: 100px;
+    margin-left: 350px;
+    font-size: 80px;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    width: 100px;
+    height: 90px;
+    border-radius: 20px;
+}
+
+.qtlv #ht-icon #ht-number{
+    color: white;
+    position: absolute;
+    font-size:20px;
+    display: flex;
+    width: 30px;
+    height: 30px;
+    right: -15px;
+    top :-15px;
+    border-radius: 50%;
+    background-color: #7fbc28;
+    align-items: center;
+    justify-content: center;
+}
+
+.qtlv #t{
+    display: flex;
+}
+
+
+.qtlv #tv{
+    font-family: 'Maven Pro', sans-serif;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.qtlv #tv-t{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+    margin-top: 30px;
+    width: 300px;
+    margin-left: 100px;
+    margin-bottom: 80px;
+}
+
+.qtlv #cv{
+    font-family: 'Maven Pro', sans-serif;
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold
+}
+
+.qtlv #cv-t{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+
+.qtlv #ht{
+    font-family: 'Maven Pro', sans-serif;
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold
+}
+
+.qtlv #ht-t{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}

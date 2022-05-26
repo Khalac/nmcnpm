@@ -1,0 +1,70 @@
+.reason{
+    margin-top: 50px;
+    display: flex;
+}
+
+
+.reason #left{
+    height: 510px;
+    width: 45%;
+}
+
+.reason #right{
+    
+    height: 510px;
+    width: 55%;
+    background-color: #17391d;
+}
+
+
+.reason #right #cltn{
+    font-family: 'Maven Pro', sans-serif;
+    color: #e2c998;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.reason #right #tai-sao{
+    font-family: 'Maven Pro', sans-serif;
+    margin-top: 10px;
+    margin-left: 80px;
+    font-size: 25px;
+    color: white;
+}
+
+.reason #right #bar{
+    margin-left: 80px;
+    margin-top: 30px;
+    border-top: 6px solid #7fbc28;
+    width: 100px;
+}
+
+.reason #right #reason-text{
+    font-family: 'Source Code Pro', monospace;
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 15px;
+    width: 650px;
+    color:white;
+}
+
+.reason #right #list{
+    font-family: 'Maven Pro', sans-serif;
+    display: grid;
+    margin-top: 0px;
+    color:white;
+    font-size: 20px;
+    margin-left: 60px;
+    line-height: 40px;
+    
+}
+
+.reason #right #list ul {
+    list-style: url(../img/tick.png);
+
+}
+
+.reason #right #list ul li{
+    padding-left: 20px;
+    margin-top: 10px;
+}

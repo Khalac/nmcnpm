@@ -1,0 +1,24 @@
+.container{
+    display: grid;
+    grid-template-rows: 50px 100px 1fr;
+}
+body{
+    margin: 0;
+}
+
+.contact{
+    font-weight: bold;
+    display: flex;
+    height: 45px;
+    background-color: #f2f8ec; 
+    align-items: center;
+    fone-size: 20px;
+}
+
+.location{
+    margin-left: 50px;
+}
+
+.phone-mail{
+    margin-left: 700px;
+}

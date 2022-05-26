@@ -1,0 +1,76 @@
+.inform{
+    background-color: #0e3c00;
+    text-align: center;
+    height: 500px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.inform #pic{
+    display: inline-block;
+    margin-top: 50px;
+    text-align: center;
+    width: 100%;
+
+}
+
+.inform #text{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+    display: inline-block;
+    color:white;
+    text-align: center;
+    width: 800px;
+}
+
+.inform #option{
+    font-family: 'Maven Pro', sans-serif;
+    color: white;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+
+.inform #option ul li{
+    list-style: none;
+    float: left;
+    display: block;
+    line-height: 60px;
+    padding: 0px 30px 0px 30px;
+}
+
+.inform #icon{
+    font-size: 20px;
+    display: inline-block;
+    width: 900px;
+    margin-left: 450px;
+}
+
+
+.inform #icon ul li{
+    list-style: none;
+    float: left;
+    display: block;
+    line-height: 60px;
+    padding: 0px 20px 0px 20px;
+    margin: 0px 20px 0px 20px;
+}
+
+.inform #icon #fb{
+    background-color: white;
+    border-radius: 50%;
+}
+.inform #icon #tw{
+    background-color: white;
+    border-radius: 50%;
+}
+.inform #icon #insta{
+    background-color: white;
+    border-radius: 50%;
+}
+.inform #icon #yt{
+    background-color: white;
+    border-radius: 50%;
+}
+
